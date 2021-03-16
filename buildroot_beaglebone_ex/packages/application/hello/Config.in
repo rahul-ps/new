@@ -1,0 +1,6 @@
+CONFIG BR2_PACKAGE_HELLO
+	bool "hello"
+	help
+		hello world package
+		
+		http://exaple.com
